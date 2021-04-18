@@ -1,9 +1,3 @@
-# Ben Woodfield
-# 06/12/2016
-# An example program using my Tkinter GUI Class Template
-# This is an Antenna wavelength program from another repository I have
-# I have wrapped the whole thing into an Aplication class
-# The program then uses a main Frame as a container for all the other child widgets
 
 from tkinter import *
 
